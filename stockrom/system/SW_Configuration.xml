@@ -1,0 +1,12 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SGH-I717</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>I717ATT</CSCName>
+	<CSCVersion>MD3</CSCVersion>
+	<NbCustomer>1</NbCustomer>
+	<CustomerData src="/Customer/ATT/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>

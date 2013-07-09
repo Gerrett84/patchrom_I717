@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.sec.android.app.launcher">
+  <home>
+	<!--Screen 2-->
+	<appwidget
+        launcher:packageName="com.att.featuredapps.handset"
+        launcher:className="com.att.featuredapps.widget.PromoWidgetHandset"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:spanX="4"
+        launcher:spanY="2" />
+
+    <favorite
+        launcher:packageName="com.att.myWireless"
+        launcher:className="com.att.myWireless.activity.login.SplashScreenActivity"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="4" />
+
+    <favorite
+        launcher:packageName="com.att.android.mobile.attmessages"
+        launcher:className="com.att.ui.screen.ConversationListScreen"
+        launcher:screen="1"
+        launcher:x="1"
+        launcher:y="4" />
+
+    <favorite
+        launcher:packageName="com.mtag.att.codescanner"
+        launcher:className="com.mtag.att.codescanner.Mobiletag"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="4" />
+
+    <favorite
+        launcher:packageName="com.mobitv.client.tv"
+        launcher:className="com.mobitv.client.tv.MobiTVPlayer"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="4" />
+
+    <!-- Screen 3 -->
+    <appwidget 
+	launcher:packageName="com.android.email" 
+	launcher:className="com.android.email.provider.WidgetProvider" 
+	launcher:screen="2" 
+	launcher:x="0" 
+	launcher:y="0" 
+	launcher:spanX="5" 
+	launcher:spanY="2" />
+
+    <!-- Screen 4 -->
+    <sactivitywidget
+		launcher:packageName="com.sec.android.widgetapp.ap.hero.accuweather.widget"
+		launcher:className="com.sec.android.widgetapp.ap.hero.accuweather.widget.WeatherClock"
+		launcher:screen="3"
+		launcher:x="0"
+		launcher:y="0"
+		launcher:spanX="5"
+		launcher:spanY="2" />
+
+    <favorite
+        launcher:packageName="com.android.contacts"
+        launcher:className="com.android.contacts.activities.PeopleActivity"
+        launcher:screen="3"
+        launcher:x="0"
+        launcher:y="4" />
+
+    <favorite
+        launcher:packageName="com.android.mms"
+		launcher:className="com.android.mms.ui.ConversationComposer"
+        launcher:screen="3"
+        launcher:x="1"
+        launcher:y="4" />
+
+   <favorite
+        launcher:packageName="com.android.vending"
+        launcher:className="com.android.vending.AssetBrowserActivity"
+        launcher:screen="3"
+        launcher:x="2"
+        launcher:y="4" />
+
+    <favorite
+        launcher:packageName="com.sec.android.app.camera"
+        launcher:className="com.sec.android.app.camera.Camera"
+        launcher:screen="3"
+        launcher:x="3"
+        launcher:y="4" />
+
+    <favorite
+        launcher:packageName="com.sec.android.app.snotebook" 
+	launcher:className="com.infraware.filemanager.FmFileTreeListActivity"
+        launcher:screen="3"
+        launcher:x="4"
+        launcher:y="4" />
+
+	<!-- Screen 5 -->
+    <appwidget 
+	launcher:packageName="android.googleSearch.googleSearchWidget" 
+	launcher:className="android.googleSearch.googleSearchWidget.GoogleSearchProvider" 
+	launcher:screen="4" 
+	launcher:x="0" 
+	launcher:y="0" 
+	launcher:spanX="5" 
+	launcher:spanY="1" />
+    <favorite 
+	launcher:packageName="com.sdgtl.mediahub.dla.att" 
+	launcher:className="com.sdgtl.mediahub.dla.att.Main" 
+	launcher:screen="4" 
+	launcher:x="0" 
+	launcher:y="4" />
+    <favorite 
+	launcher:packageName="com.sec.android.app.music" 
+	launcher:className="com.sec.android.app.music.MusicActionTabActivity" 
+	launcher:screen="4" 
+	launcher:x="1" 
+	launcher:y="4" />
+    <favorite 
+	launcher:packageName="com.sec.android.app.videoplayer" 
+	launcher:className="com.sec.android.app.videoplayer.activity.MainTab" 
+	launcher:screen="4" 
+	launcher:x="2" 
+	launcher:y="4" />
+    <favorite 
+	launcher:packageName="com.google.android.youtube" 
+	launcher:className="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" 
+	launcher:screen="4" 
+	launcher:x="3" 
+	launcher:y="4" />
+    <favorite 
+	launcher:packageName="com.acrodea.crayonphysics" 
+	launcher:className="com.acrodea.crayonphysics.crayonphysics" 
+	launcher:screen="4" 
+	launcher:x="4" 
+	launcher:y="4" />
+
+	<!-- Screen 6 -->
+    <appwidget
+        launcher:packageName="com.yellowpages.android.ypmobile"
+        launcher:className="com.yellowpages.android.ypmobile.YPWidgetSmallProvider"
+        launcher:screen="5"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:spanX="4"
+        launcher:spanY="1" />
+
+     <favorite
+        launcher:packageName="com.telenav.app.android.cingular"
+        launcher:className="com.telenav.app.android.cingular.TeleNav"
+        launcher:screen="5"
+        launcher:x="0"
+        launcher:y="4" />
+
+      <favorite
+        launcher:packageName="com.google.android.apps.maps"
+        launcher:className="com.google.android.maps.MapsActivity"
+        launcher:screen="5"
+        launcher:x="1"
+        launcher:y="4" />
+
+      <favorite
+        launcher:packageName="com.google.android.apps.maps"
+        launcher:className="com.google.android.maps.driveabout.app.DestinationActivity"
+        launcher:screen="5"
+        launcher:x="2"
+        launcher:y="4" />
+
+      <favorite 
+	    launcher:packageName="com.google.android.apps.maps" 
+	    launcher:className="com.google.android.maps.PlacesActivity" 
+	    launcher:screen="5" 
+	    launcher:x="3" 
+	    launcher:y="4" />
+
+      <favorite
+        launcher:packageName="com.wavemarket.waplauncher"
+        launcher:className="com.wavemarket.finder.mobile.SignInActivity"
+        launcher:screen="5"
+        launcher:x="4"
+        launcher:y="4" />
+
+  </home>
+
+  <hotseat>
+    <favorite
+		launcher:packageName="com.android.contacts"
+		launcher:className="com.android.contacts.activities.DialtactsActivity"
+		launcher:screen="0" />
+    <favorite
+		launcher:packageName="com.android.calendar"
+		launcher:className="com.android.calendar.AllInOneActivity"
+		launcher:screen="1" />
+    <favorite
+		launcher:packageName="com.android.email"
+		launcher:className="com.android.email.activity.Welcome"
+		launcher:screen="2" />
+    <favorite
+		launcher:packageName="com.android.browser"
+		launcher:className="com.android.browser.BrowserActivity"
+		launcher:screen="3" />
+  </hotseat>
+
+</favorites>

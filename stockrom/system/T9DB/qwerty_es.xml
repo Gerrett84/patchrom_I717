@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<keyboard
+  primaryId="10"
+  secondaryId="7"
+  keyWidth="9.1%"
+  keyHeight="21.171%"
+  verticalGap="4.054%"
+  horizontalGap="1%"
+  defaultLayoutWidth="720"
+  defaultLayoutHeight="444"
+ >
+  <row>
+    <key keyType="regional" keyLabel="Q" keyCodes="0x71" />
+    <key keyType="regional" keyLabel="W" keyCodes="0x77" />
+    <key keyType="regional" keyLabel="E" keyCodes="0x65" />
+    <key keyType="regional" keyLabel="R" keyCodes="0x72" />
+    <key keyType="regional" keyLabel="T" keyCodes="0x74" />
+    <key keyType="regional" keyLabel="Y" keyCodes="0x79" />
+    <key keyType="regional" keyLabel="U" keyCodes="0x75" />
+    <key keyType="regional" keyLabel="I" keyCodes="0x69" />
+    <key keyType="regional" keyLabel="O" keyCodes="0x6F" />
+    <key keyType="regional" keyLabel="P" keyCodes="0x70" />
+  </row>
+  <row>
+  	<void />
+    <key keyType="regional" keyLabel="A" keyCodes="0x61" />
+    <key keyType="regional" keyLabel="S" keyCodes="0x73" />
+    <key keyType="regional" keyLabel="D" keyCodes="0x64" />
+    <key keyType="regional" keyLabel="F" keyCodes="0x66" />
+    <key keyType="regional" keyLabel="G" keyCodes="0x67" />
+    <key keyType="regional" keyLabel="H" keyCodes="0x68" />
+    <key keyType="regional" keyLabel="J" keyCodes="0x6A" />
+    <key keyType="regional" keyLabel="K" keyCodes="0x6B" />
+    <key keyType="regional" keyLabel="L" keyCodes="0x6C" />
+    <void />
+  </row>
+  <row>
+    <key
+      keyType="function"
+      keyLabel="shift"
+      keyName="ET9KEY_SHIFT"
+      keyWidth="12.7%"
+      />
+    <void />
+    <key keyType="regional" keyLabel="Z" keyCodes="0x7A" />
+    <key keyType="regional" keyLabel="X" keyCodes="0x78" />
+    <key keyType="regional" keyLabel="C" keyCodes="0x63" />
+    <key keyType="regional" keyLabel="V" keyCodes="0x76" />
+    <key keyType="regional" keyLabel="B" keyCodes="0x62" />
+    <key keyType="regional" keyLabel="N" keyCodes="0x6E" />
+    <key keyType="regional" keyLabel="M" keyCodes="0x6D" />
+    <void />
+    <key
+      keyType="function"
+      keyLabel="del"
+      keyName="ET9KEY_CLEAR"
+      keyWidth="12.7%"
+      />
+  </row>
+</keyboard >

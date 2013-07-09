@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<keyboard
+  primaryId="0x12"
+  secondaryId="0x07"
+  keyWidth="9.1%"
+  keyHeight="21.171%"
+  verticalGap="4.054%"
+  horizontalGap="1%"
+  defaultLayoutWidth="720"
+  defaultLayoutHeight="444"
+  addAltChars="false"
+ >
+  <row>
+    <key keyType="regional" keyLabel="ᄇ" keyLabelShifted="ᄈ"/>
+    <key keyType="regional" keyLabel="ᄌ" keyLabelShifted="ᄍ"/>
+    <key keyType="regional" keyLabel="ᄃ" keyLabelShifted="ᄄ"/>
+    <key keyType="regional" keyLabel="ᄀ" keyLabelShifted="ᄁ"/>
+    <key keyType="regional" keyLabel="ᄉ" keyLabelShifted="ᄊ"/>
+    <key keyType="regional" keyLabel="ᅭ" />
+    <key keyType="regional" keyLabel="ᅧ" />
+    <key keyType="regional" keyLabel="ᅣ" />
+    <key keyType="regional" keyLabel="ᅢ" keyLabelShifted="ᅤ"/>
+    <key keyType="regional" keyLabel="ᅦ" keyLabelShifted="ᅨ"/>
+ </row>
+  <row>
+    <void />
+    <key keyType="regional" keyLabel="ᄆ" />
+    <key keyType="regional" keyLabel="ᄂ" />
+    <key keyType="regional" keyLabel="ᄋ" />
+    <key keyType="regional" keyLabel="ᄅ" />
+    <key keyType="regional" keyLabel="ᄒ" />
+    <key keyType="regional" keyLabel="ᅩ" />
+    <key keyType="regional" keyLabel="ᅥ" />
+    <key keyType="regional" keyLabel="ᅡ" />
+    <key keyType="regional" keyLabel="ᅵ" />
+    <void />
+  </row>
+  <row>
+    <key
+      keyType="function"
+      keyLabel="shift"
+      keyName="ET9KEY_SHIFT"
+      keyWidth="12.7%"
+      />
+    <void />
+    <key keyType="regional" keyLabel="ᄏ"  />
+    <key keyType="regional" keyLabel="ᄐ" />
+    <key keyType="regional" keyLabel="ᄎ" />
+    <key keyType="regional" keyLabel="ᄑ" />
+    <key keyType="regional" keyLabel="ᅲ" />
+    <key keyType="regional" keyLabel="ᅮ" />
+    <key keyType="regional" keyLabel="ᅳ" />
+    <void />
+    <key
+      keyType="function"
+      keyLabel="del"
+      keyName="ET9KEY_CLEAR"
+      keyWidth="12.7%"
+      />
+  </row>
+</keyboard >

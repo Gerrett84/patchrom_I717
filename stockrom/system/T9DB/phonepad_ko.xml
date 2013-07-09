@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- Template for OEM use -->
+
+<keyboard
+  primaryId="0x12"
+  secondaryId="0x06"
+  keyWidth="28.66%"
+  keyHeight="20.25%"
+  borderGap="2dp"
+  verticalGap="5%"
+  horizontalGap="5%"
+  defaultLayoutWidth="320"
+  defaultLayoutHeight="216"
+  addAltChars="false"
+  >
+	
+  <row>
+
+    <key
+      keyLabel="0x1175"
+      keyType="nonRegional"
+      keyCodes="0x1175"
+      keyMultitapCodes="0x1175"
+    />
+
+    <key
+      keyLabel="0x119E"
+      keyType="nonRegional"
+      keyCodes="0x119E"
+      keyMultitapCodes="0x119E"
+    />
+
+    <key
+      keyLabel="0x1173"
+      keyType="nonRegional"
+      keyCodes="0x1173"
+      keyMultitapCodes="0x1173"
+    />
+
+  </row>
+
+  <row>
+
+    <key
+      keyLabel="ㄱㅋ"
+      keyType="nonRegional"
+      keyCodes="0x1100,0x110f,0x1101"
+      keyMultitapCodes="0x1100,0x110f,0x1101"
+    />
+
+    <key
+      keyLabel="ㄴㄹ"
+      keyType="nonRegional"
+      keyCodes="0x1102,0x1105"
+      keyMultitapCodes="0x1102,0x1105"
+    />
+
+    <key
+      keyLabel="ㄷㅌ"
+      keyType="nonRegional"
+      keyCodes="0x1103,0x1110,0x1104"
+      keyMultitapCodes="0x1103,0x1110,0x1104"
+    />
+
+  </row>
+
+  <row>
+
+    <key
+      keyLabel="ㅂㅍ"
+      keyType="nonRegional"
+      keyCodes="0x1107,0x1111,0x1108"
+      keyMultitapCodes="0x1107,0x1111,0x1108"
+    />
+
+    <key
+      keyLabel="ㅅㅎ"
+      keyType="nonRegional"
+      keyCodes="0x1109,0x1112,0x110a"
+      keyMultitapCodes="0x1109,0x1112,0x110a"
+    />
+
+    <key
+      keyLabel="ㅈㅊ"
+      keyType="nonRegional"
+      keyCodes="0x110c,0x110e,0x110d"
+      keyMultitapCodes="0x110c,0x110e,0x110d"
+    />
+
+  </row>
+
+  <row>
+
+    <key
+      keyType="function"
+      keyLabel="*"
+      keyName="ET9KEY_SHIFT"
+    />
+
+    <key
+      keyLabel="ㅇㅁ"
+      keyType="nonRegional"
+      keyCodes="0x110b,0x1106"
+      keyMultitapCodes="0x110b,0x1106"
+    />
+
+    <key
+      keyType="function"
+      keyLabel="#"
+      keyName="ET9KEY_SPACE"
+    />
+
+  </row>
+</keyboard>

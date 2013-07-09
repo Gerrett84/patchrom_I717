@@ -1,0 +1,12 @@
+/system/media/audio/ringtones/ATT_Firefly_Default.ogg
+/system/media/audio/ringtones/ATT_PlayOn.ogg
+/system/media/audio/ringtones/ATT_StarGazer.ogg
+/system/media/audio/ringtones/ATT_CatchMe.ogg
+/system/media/audio/ringtones/S_Over_the_horizon.ogg
+/system/media/audio/ringtones/The_Trap_Of_City.ogg
+/system/media/audio/ringtones/Basic_Tone.ogg
+/system/media/audio/ringtones/Lyra.ogg
+/system/media/audio/ringtones/Weird_Love.ogg
+/system/media/audio/ringtones/CASSIOPEIA.ogg
+/system/media/audio/ringtones/Chime.ogg
+/system/media/audio/ringtones/ANDROMEDA.ogg

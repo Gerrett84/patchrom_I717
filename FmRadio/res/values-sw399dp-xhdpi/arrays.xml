@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="supportCellSizeArray">
+        <item>5x1</item>
+        <item>5x2</item>
+        <item>5x3</item>
+        <item>5x4</item>
+    </string-array>
+</resources>

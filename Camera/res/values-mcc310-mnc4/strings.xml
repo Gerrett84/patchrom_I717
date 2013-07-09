@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_direct_dialog_text">Share shot allows you to share photos with connected users via Wi-Fi Direct. Wi-Fi Direct connection required.</string>
+</resources>
